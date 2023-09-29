@@ -72,4 +72,3 @@ let initialRecipe = [
 
 # Best of Luck!
 ```
-

@@ -65,8 +65,7 @@ app.get("/recipe/filter", (req, res) => {
   res.json(filteredRecipes);
 });
 
-
-const port=8090;
-app.listen(port,()=>{
+const port = 8090;
+app.listen(port, () => {
   console.log(`server listening on port http://localhost:${port}`);
 });
